@@ -1,4 +1,5 @@
 FROM python:3.7
+MAINTAINER yonggi.son <yonggi.son@thingsflow.kr>
 
 RUN apt-get update -y
 RUN pip3 install flask
