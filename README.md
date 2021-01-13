@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/imsoncod/Docker-KoGPT2
 
-cdDocker-KoGPT2
+cd Docker-KoGPT2
 ```
 
 <br>
